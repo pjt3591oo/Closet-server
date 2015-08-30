@@ -1,0 +1,15 @@
+﻿{
+  "name": "PCloset",
+  "version": "0.0.0",
+  "description": "PCloset",
+  "main": "app.js",
+  "author": {
+    "name": "멍개",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}

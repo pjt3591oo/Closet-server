@@ -1,0 +1,4 @@
+C:\Users\멍개\Desktop\PCloset\PCloset\obj\Debug\PCloset.njsprojResolveAssemblyReference.cache
+C:\Users\멍개\Desktop\PCloset\PCloset\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\멍개\Desktop\Closet\PCloset\PCloset\obj\Debug\PCloset.njsprojResolveAssemblyReference.cache
+C:\Users\멍개\Desktop\Closet\PCloset\PCloset\bin\Microsoft.NodejsTools.WebRole.dll

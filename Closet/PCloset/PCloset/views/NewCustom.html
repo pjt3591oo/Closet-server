@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+    <title></title>
+
+    <script>
+        $(document).ready(function () {
+            $('#NewCustom').on('click', function () {
+                alert('test');
+            });
+        });
+
+    </script>
+
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td>Id</td> 
+            <td><input type="text" id="Id" /> <input type="button" id="check" value="중복확인" /></td>
+        </tr>
+        
+        <tr>
+            <td>Password</td>
+            <td><input type="text" id="Pw" /></td>
+        </tr>
+        
+        <tr>
+            <td>Name</td>
+            <td><input type="text" id="Name" /></td>
+    </table>
+
+    <br />
+
+    <a href="/"><input type="button" id="back" value="뒤로가기" /></a>
+        <input type="button" id="NewCustom" value="회원가입" />
+</body>
+</html>
